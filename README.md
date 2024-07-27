@@ -18,7 +18,7 @@ Este roteiro tem como objetivo dar uma **completa imagem do cenário moderno de 
 
 ## É bom te ver por aqui 😎
 
-> [Versão em texto para usuários com deficiência visual](text/extras.md)
+> [Versão em texto para usuários com deficiência visual](text/extras-pt-br.md)
 
 ![Data Engineer Roadmap Extras](img/extras.png)
 
