@@ -12,9 +12,6 @@ Este roteiro tem como objetivo dar uma **completa imagem do cenário moderno de 
 > Iniciantes não devem se sentir sobrecarregados pelo vasto número de ferramentas e frameworks listados aqui. Um engenheiro de dados típico dominaria um subconjunto dessas ferramentas ao longo de vários anos, dependendo de sua empresa e escolhas de carreira.
 
 ***
-
-🔥  We just launched [**Data Stack Jobs**](https://datastackjobs.com/) — a clean and simple job site for Data Stack Engineers!
-
 > [Versão em texto para usuários com deficiência visual](text/roadmap-pt-br.md)
 
 ![Data Engineer Roadmap](img/roadmap.png)
